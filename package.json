@@ -1,10 +1,10 @@
 {
   "author": "whyrusleeping",
   "bugs": {
-    "url": "https://github.com/ipfs/go-ipld-btc"
+    "url": "https://github.com/p9c/go-ipld-duo"
   },
   "gx": {
-    "dvcsimport": "github.com/ipfs/go-ipld-btc"
+    "dvcsimport": "github.com/p9c/go-ipld-duo"
   },
   "gxDependencies": [
     {
@@ -17,7 +17,7 @@
   "gxVersion": "0.10.0",
   "language": "go",
   "license": "",
-  "name": "go-ipld-btc",
+  "name": "go-ipld-duo",
   "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
   "version": "0.0.4"
 }

@@ -4,7 +4,7 @@ ParallelCoin ipld format
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
 [![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](http://ipfs.io/)
 [![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs)
-[![Coverage Status](https://coveralls.io/repos/github/ipfs/go-ipld-btc/badge.svg?branch=master)](https://coveralls.io/github/p9c/go-ipld-duo?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/p9c/go-ipld-duo/badge.svg?branch=master)](https://coveralls.io/github/p9c/go-ipld-duo?branch=master)
 [![Travis CI](https://travis-ci.org/p9c/go-ipld-duo.svg?branch=master)](https://travis-ci.org/p9c/go-ipld-duo)
 
 > An ipld codec for ParallelCoin blocks and transactions allowing path traversals across the blockchain!
